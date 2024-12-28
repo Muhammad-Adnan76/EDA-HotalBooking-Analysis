@@ -1,0 +1,2 @@
+# EDA-HotalBooking-Analysis
+This project conducts Exploratory Data Analysis (EDA) on a hotel booking dataset to uncover valuable insights and patterns related to hotel reservations. The dataset includes several attributes about the bookings, such as booking dates, customer details, room types, and booking statuses (e.g., canceled or confirmed). The goal of the analysis is to help hotel managers and analysts understand customer behavior, booking trends, and the factors influencing booking decisions, cancellations, and booking patterns.
